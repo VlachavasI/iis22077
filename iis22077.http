@@ -1,0 +1,6 @@
+@iis22077_HostAddress = http://localhost:5018
+
+GET {{iis22077_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
